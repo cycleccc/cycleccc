@@ -19,7 +19,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://juejin.cn/user/3769543078978334/"><img src="https://img.shields.io/badge/Website-掘金-blue" /></a>&emsp;
+    <a href="https://juejin.cn/user/3769543078978334/"><img src="https://img.shields.io/badge/Juejin-掘金-blue" /></a>&emsp;
     <a href="https://twitter.com/vY4Ye5WIablwMIr/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
 <!--     <a href="https://www.youtube.com/@"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
 <!--     <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
