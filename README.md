@@ -62,7 +62,7 @@
 <p>&emsp;&emsp;嗨，你好，我是cycleccc。</p>
 <p>&emsp;&emsp;热爱编程(2年)、健身(2年)、读书、羽毛球(3年)。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;当你停止创造，你的才能就不再重要，你所拥有的只剩下你的品位。而品位会裹挟你，让你排斥他人，变得狭隘。所以，要创造。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
