@@ -62,7 +62,7 @@
 <p>&emsp;&emsp;嗨，你好，我是cycleccc。</p>
 <p>&emsp;&emsp;热爱编程(2年)、健身(2年)、读书、羽毛球(3年)。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;当你停止创造，才能变得无足轻重，你只剩下品位。而品位会裹挟你，让你排斥他人，变得狭隘。所以，要创造。</p>
+<p>&emsp;&emsp;当你停止创造，才能变得无足轻重，只剩下品位。而品位会裹挟你，让你排斥他人，变得狭隘。所以，要创造。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
