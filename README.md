@@ -33,7 +33,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycleccc&layout=compact&theme=tokyonight) -->
     
 <div align="center">
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycleccc&layout=compact" height=145/></span>
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycleccc&layout=compact&hide=Python" height=145/></span>
 <span><img src="https://github-readme-stats.vercel.app/api?username=cycleccc&count_private=true&show_icons=true" height=145/></span>
 </div>
 
