@@ -34,7 +34,7 @@
     
 <div align="center">
   <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycleccc&layout=compact&hide=Python" height=145/></span>
-<span><img src="https://github-readme-stats.vercel.app/api?username=cycleccc&count_private=true&show_icons=true" height=145/></span>
+<span><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cycleccc&show_icons=true&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&theme=default#gh-light-mode-only" height=145/></span>
 </div>
 
 
