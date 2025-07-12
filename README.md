@@ -29,23 +29,11 @@
   </div>
 
   <div>
-<!--     <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cycleccc&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycleccc&layout=compact&theme=tokyonight) -->
-    
+ 
 <div align="center">
   <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycleccc&layout=compact&hide=Python" height=145/></span>
 <span><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cycleccc&show_icons=true&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&theme=default#gh-light-mode-only" height=145/></span>
 </div>
-
-
-
-  
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<!--  <picture> -->
-<!--     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
-<!--     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" /> -->
-<!--     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
-<!--   </picture> -->
 
 </div>
 
