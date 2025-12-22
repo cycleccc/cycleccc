@@ -32,7 +32,7 @@
  
 <div align="center">
   <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycleccc&layout=compact&hide=Python" height=145/></span>
-<span><img src="https://github-readme-stats-alpha-inky.vercel.app/api?username=cycleccc&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&rank_icon=percentile&theme=default#gh-light-mode-only" height=145/></span>
+<span><img src="https://github-readme-stats-one-bice.vercel.app/api?username=cycleccc&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&rank_icon=percentile&theme=default#gh-light-mode-only" height=145/></span>
 </div>
 
 </div>
